@@ -1,0 +1,18 @@
+# Local tools and editor state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.vscode/
+.idea/
+
+# Operating-system artifacts
+.DS_Store
+Thumbs.db
+
+# Local scratch and secrets (never commit credentials)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.local/
+.tmp/
